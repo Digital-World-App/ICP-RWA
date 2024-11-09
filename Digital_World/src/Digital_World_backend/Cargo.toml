@@ -3,12 +3,11 @@ name = "Digital_World_backend"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [lib]
 crate-type = ["cdylib"]
 
 [dependencies]
 candid = "0.10"
 ic-cdk = "0.16"
-ic-cdk-timers = "0.10" # Feel free to remove this dependency if you don't need timers
+ic-cdk-macros = "0.16"  # Adiciona o pacote `ic-cdk-macros` para resolver as macros `query` e `update`
+ic-cdk-timers = "0.10"  # Remova esta dependência se não precisar de timers

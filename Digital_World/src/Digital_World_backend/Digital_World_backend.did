@@ -1,3 +1,4 @@
 service : {
-    "greet": (text) -> (text) query;
-}
+    claim_sale : (int) -> (Result : text) query;
+    buy_item : (int, nat64) -> (Result : text);
+};
