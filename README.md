@@ -29,24 +29,24 @@ To run the smart contract, you must have the following:
 
 In addition to the requirements outlined in the "Requirements" section of this README, the real estate records digitization process also requires the collection of the following information and documents:
 
-| Categoria                       | Documento                                             | Descrição                                                                         |
-|---------------------------------|-------------------------------------------------------|-----------------------------------------------------------------------------------|
-| **Informações pessoais:**      | Nome completo                                         | Nome completo do proprietário                                                    |
-|                                 | Data de nascimento                                    | Data de nascimento do proprietário                                                |
-|                                 | CPF                                                   | Cadastro de Pessoa Física do proprietário                                         |
-|                                 | RG                                                    | Registro Geral do proprietário                                                    |
-|                                 | Nacionalidade                                         | Nacionalidade do proprietário                                                     |
-|                                 | Estado civil                                          | Estado civil do proprietário                                                      |
-| **Comprovante de residência:**  | Conta de água                                         | Comprovante de residência - água                                                 |
-|                                 | Conta de luz                                          | Comprovante de residência - luz                                                  |
-|                                 | Conta de gás                                          | Comprovante de residência - gás                                                  |
-| **IPTU:**                       | Comprovante de pagamento do IPTU                      | Comprovante de pagamento do Imposto sobre a Propriedade Territorial Urbana        |
-| **Ônus reais:**                 | Comprovante de ônus reais                             | Documento que comprova ônus reais                                                |
-| **Planta topográfica do lote:** | Documento que representa a forma e as dimensões do lote | Planta topográfica do lote                                                    |
-| **Planta arquitetônica do imóvel:** | Documento que representa a distribuição interna do imóvel | Planta arquitetônica do imóvel                                              |
-| **Planta de zoneamento:**       | Documento que representa a divisão de uma área urbana em zonas | Planta de zoneamento                                                         |
-| **Escritura:**                  | Escritura                                             | Documento público que registra a transferência de propriedade de um imóvel        |
-| **Fotos do imóvel:**            | Fotos do imóvel                                       | Fotos do imóvel para ilustrar e facilitar a identificação do imóvel                |
+| **Category**                     | **Document**                                       | **Description**                                                                  |
+|-----------------------------------|---------------------------------------------------|----------------------------------------------------------------------------------|
+| **Personal Information:**         | Full Name                                         | Full name of the property owner                                                  |
+|                                    | Date of Birth                                     | Property owner's date of birth                                                   |
+|                                    | CPF                                               | Taxpayer Identification Number (Cadastro de Pessoa Física) of the property owner |
+|                                    | RG                                                | General Registration (Registro Geral) of the property owner                      |
+|                                    | Nationality                                       | Nationality of the property owner                                                |
+|                                    | Marital Status                                    | Marital status of the property owner                                             |
+| **Proof of Residence:**           | Water Bill                                        | Proof of residence - water                                                       |
+|                                    | Electricity Bill                                  | Proof of residence - electricity                                                 |
+|                                    | Gas Bill                                          | Proof of residence - gas                                                         |
+| **Property Tax (IPTU):**          | IPTU Payment Receipt                              | Receipt of payment for the Urban Property Tax (IPTU)                             |
+| **Encumbrances:**                 | Encumbrance Certificate                           | Document proving the existence of real encumbrances                              |
+| **Topographic Map of the Lot:**   | Document showing the shape and dimensions of the lot | Topographic map of the lot                                                     |
+| **Architectural Plan of the Property:** | Document showing the internal layout of the property | Architectural plan of the property                                           |
+| **Zoning Plan:**                  | Document showing the division of an urban area into zones | Zoning plan                                                                |
+| **Deed:**                         | Deed                                              | Public document that records the transfer of property ownership                  |
+| **Property Photos:**              | Property Photos                                   | Photos of the property to illustrate and facilitate its identification            |
 
 ## Key Features
 
